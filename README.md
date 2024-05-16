@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Voting-Dapp
 
 Blockchain can be used in developing many real life application that can solve the issue of trustability. Voting system is one of them. We all know a fair Voting System
@@ -32,3 +33,6 @@ Index Terms—Decentralization, Ethereum, Security, Smart
 Contracts, Voting System
 
 
+=======
+# PCSE24-24
+>>>>>>> 8709f653eca84c22dc2eae69b4229fecabcef967
